@@ -1,5 +1,5 @@
 #ifndef IMAGE_PROCESSING_H
-#define IMAGEPROCESSING_H
+#define IMAGE_PROCESSING_H
 
 #include <stdint.h>
 #include <hls_stream.h>
